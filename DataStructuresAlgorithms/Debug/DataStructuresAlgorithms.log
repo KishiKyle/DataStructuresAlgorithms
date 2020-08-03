@@ -1,0 +1,5 @@
+﻿  Chapter1_Creativity.cpp
+C:\dev\personal\C++\DataStructuresAlgorithms\DataStructuresAlgorithms\Chapter1_Creativity.cpp(49,19): warning C4018: '<': signed/unsigned mismatch
+C:\dev\personal\C++\DataStructuresAlgorithms\DataStructuresAlgorithms\Chapter1_Creativity.cpp(71,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\personal\C++\DataStructuresAlgorithms\DataStructuresAlgorithms\Chapter1_Creativity.cpp(92): message : see reference to function template instantiation 'void Randomise<52>(int (&)[52])' being compiled
+  DataStructuresAlgorithms.vcxproj -> C:\dev\personal\C++\DataStructuresAlgorithms\Debug\DataStructuresAlgorithms.exe
